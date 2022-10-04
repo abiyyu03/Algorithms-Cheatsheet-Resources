@@ -190,6 +190,14 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ## GitHub Readme Generator:
 - [🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme](https://github.com/rishavanand/github-profilinator)
 
+## Practice within Your Browser:
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
+- [Sololearn Online Compiler](https://www.sololearn.com/compiler-playground/)
+- [TypeScript Playground](https://typescript-play.js.org/)
+- [Replit (in-browser IDE)](https://replit.com/)
+
+
 ## Want to Contribute ?
 Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
 
